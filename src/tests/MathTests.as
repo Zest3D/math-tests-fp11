@@ -8,10 +8,10 @@ package tests
 	 * ...
 	 * @author Gary Paluk
 	 */
-	public class AllTests extends TestSuite 
+	public class MathTests extends TestSuite 
 	{
 		
-		public function AllTests() 
+		public function MathTests() 
 		{
 			super();
 			

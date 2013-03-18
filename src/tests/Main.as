@@ -4,7 +4,7 @@ package tests
 	import flash.display.Sprite;
 	import flash.events.Event;
 	import io.plugin.math.algebra.AVector;
-	import tests.AllTests;
+	import tests.MathTests;
 	
 	/**
 	 * ...
@@ -25,7 +25,7 @@ package tests
 			
 			var unitTests: TestRunner = new TestRunner();
 			stage.addChild( unitTests );
-			unitTests.start( AllTests, null, TestRunner.SHOW_TRACE );
+			unitTests.start( MathTests, null, TestRunner.SHOW_TRACE );
 			
 		}
 		
