@@ -1,8 +1,8 @@
 package tests.plugin.math.algebra 
 {
 	import asunit.framework.TestCase;
-	import io.plugin.math.algebra.APoint;
-	import io.plugin.math.algebra.AVector;
+	import plugin.math.algebra.APoint;
+	import plugin.math.algebra.AVector;
 	
 	/**
 	 * ...

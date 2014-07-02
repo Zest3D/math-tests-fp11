@@ -3,7 +3,7 @@ package tests
 	import asunit.textui.TestRunner;
 	import flash.display.Sprite;
 	import flash.events.Event;
-	import io.plugin.math.algebra.AVector;
+	import plugin.math.algebra.AVector;
 	import tests.MathTests;
 	
 	/**
